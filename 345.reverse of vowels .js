@@ -40,3 +40,4 @@ var reverseVowels = function(s) {
 };
 
 reverseVowels("IceCreAm");
+reverseVowels("leetcode");
