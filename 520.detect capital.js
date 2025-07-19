@@ -5,12 +5,9 @@
 // Only the first letter in this word is capital, like "Google".
 // Given a string word, return true if the usage of capitals in it is right.
 var detectCapitalUse = function(word) {
-    let allcap=word.toUpperCase();
-    let allsmall=word.toLowerCase();
-    let first= word.slice(0,1).toUpperCase()+word.slice(1).toLowerCase();
-    if(word===allcap || word===allsmall || word===first)
-        return true
-    return false
+   return word === word.toUpperCase() ||
+          word === word.toLowerCase() ||
+          word === word[0].toUpperCase()+word.slice(1).toLowerCase();
 };
  word = "USA";
  console.log(detectCapitalUse(word));
