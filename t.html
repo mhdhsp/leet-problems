@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .main{
+            display: grid;
+            grid-template-columns: 500px 500px;
+            grid-template-rows: 200px 200px;
+            grid-template-areas: "head head"
+                                "side content"
+                                "footer footer";
+        }
+        .haed{
+            grid-area: head;
+        }
+        .side{
+            grid-area: side;
+        }
+        .content{
+            grid-area: content;
+        }
+        .footer{
+            grid-area: footer;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="haed">Header</div>
+        <div class="side">side</div>
+        <div class="content">Content</div>
+        <div class="footer">Footer</div>
+    </div>
+</body>
+</html>
