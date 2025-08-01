@@ -1,0 +1,15 @@
+D:\leet-problems\191\bin\Debug\net9.0\191.exe
+D:\leet-problems\191\bin\Debug\net9.0\191.deps.json
+D:\leet-problems\191\bin\Debug\net9.0\191.runtimeconfig.json
+D:\leet-problems\191\bin\Debug\net9.0\191.dll
+D:\leet-problems\191\bin\Debug\net9.0\191.pdb
+D:\leet-problems\191\obj\Debug\net9.0\191.GeneratedMSBuildEditorConfig.editorconfig
+D:\leet-problems\191\obj\Debug\net9.0\191.AssemblyInfoInputs.cache
+D:\leet-problems\191\obj\Debug\net9.0\191.AssemblyInfo.cs
+D:\leet-problems\191\obj\Debug\net9.0\191.csproj.CoreCompileInputs.cache
+D:\leet-problems\191\obj\Debug\net9.0\191.sourcelink.json
+D:\leet-problems\191\obj\Debug\net9.0\191.dll
+D:\leet-problems\191\obj\Debug\net9.0\refint\191.dll
+D:\leet-problems\191\obj\Debug\net9.0\191.pdb
+D:\leet-problems\191\obj\Debug\net9.0\191.genruntimeconfig.cache
+D:\leet-problems\191\obj\Debug\net9.0\ref\191.dll
