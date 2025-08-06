@@ -1,0 +1,15 @@
+D:\leet-problems\70\obj\Debug\net9.0\70.GeneratedMSBuildEditorConfig.editorconfig
+D:\leet-problems\70\obj\Debug\net9.0\70.AssemblyInfoInputs.cache
+D:\leet-problems\70\obj\Debug\net9.0\70.AssemblyInfo.cs
+D:\leet-problems\70\obj\Debug\net9.0\70.csproj.CoreCompileInputs.cache
+D:\leet-problems\70\obj\Debug\net9.0\70.sourcelink.json
+D:\leet-problems\70\bin\Debug\net9.0\70.exe
+D:\leet-problems\70\bin\Debug\net9.0\70.deps.json
+D:\leet-problems\70\bin\Debug\net9.0\70.runtimeconfig.json
+D:\leet-problems\70\bin\Debug\net9.0\70.dll
+D:\leet-problems\70\bin\Debug\net9.0\70.pdb
+D:\leet-problems\70\obj\Debug\net9.0\70.dll
+D:\leet-problems\70\obj\Debug\net9.0\refint\70.dll
+D:\leet-problems\70\obj\Debug\net9.0\70.pdb
+D:\leet-problems\70\obj\Debug\net9.0\70.genruntimeconfig.cache
+D:\leet-problems\70\obj\Debug\net9.0\ref\70.dll
