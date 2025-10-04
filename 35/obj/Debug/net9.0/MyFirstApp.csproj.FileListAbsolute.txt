@@ -1,0 +1,5 @@
+D:\leet-problems\35\obj\Debug\net9.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\leet-problems\35\obj\Debug\net9.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\leet-problems\35\obj\Debug\net9.0\MyFirstApp.AssemblyInfo.cs
+D:\leet-problems\35\obj\Debug\net9.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\leet-problems\35\obj\Debug\net9.0\MyFirstApp.sourcelink.json
