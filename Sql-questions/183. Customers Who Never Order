@@ -3,4 +3,4 @@
 /* Write your T-SQL query statement below */
 SELECT c.name AS Customers
 FROM Customers c
-WHERE c.id NOT EXISTS (Select customerId FROM Orders)
+WHERE c.id NOT EXISTS/In (Select customerId FROM Orders)
