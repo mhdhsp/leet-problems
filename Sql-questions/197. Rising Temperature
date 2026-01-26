@@ -1,0 +1,10 @@
+197. Rising Temperature
+
+select w1.id 
+from weather w1
+where w1.temperature >
+(
+    select temperature 
+    from weather w2
+    where w2.recordDate=DateAdd(day,-1,w1.recordDate)
+)
