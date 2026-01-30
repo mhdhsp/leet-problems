@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\leet-problems\\191\\191.csproj",
+      "projectUniqueName": "D:\\Bridgeon\\leet-problems\\191\\191.csproj",
       "projectName": "191",
-      "projectPath": "D:\\leet-problems\\191\\191.csproj",
+      "projectPath": "D:\\Bridgeon\\leet-problems\\191\\191.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\leet-problems\\191\\obj\\",
+      "outputPath": "D:\\Bridgeon\\leet-problems\\191\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
