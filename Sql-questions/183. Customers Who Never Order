@@ -1,0 +1,6 @@
+183. Customers Who Never Order
+
+/* Write your T-SQL query statement below */
+SELECT c.name AS Customers
+FROM Customers c
+WHERE c.id NOT EXISTS (Select customerId FROM Orders)
