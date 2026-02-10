@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import Child from './Child';
 
 function Fetch() {
 
@@ -34,7 +35,7 @@ function Fetch() {
         <ul>
             {
                 posts.map(post=>
-                    <li key={post.id}>{post.title}</li>
+                    <Child key ={post.id} item={post}></Child>
                 )
             }
         </ul>
