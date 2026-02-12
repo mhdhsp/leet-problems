@@ -1,11 +1,13 @@
 import React from 'react'
 import Counter from './Counter'
+import Timer from './Timer'
 
 function App() {
   return (
     <div>
       <Counter/>
-          </div>
+      <Timer/>
+    </div>
   )
 }
 
