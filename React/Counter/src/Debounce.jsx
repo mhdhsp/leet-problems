@@ -54,3 +54,21 @@ function Debounce() {
 }
 
 export default Debounce
+
+import React, { useEffect, useState } from 'react'
+
+function useDebounce(value,delay) {
+    const [debounced,setDebounced]=useState(value);
+
+    useEffect(()=>{
+        const timer=setTimeout(()=>{
+            setDebounced(value);
+        },delay)
+
+        return()=>clearTimeout(timer);
+    },[delay,value])
+
+  return debounced;
+}
+
+export default useDebounce
